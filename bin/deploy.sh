@@ -1,2 +1,2 @@
 #!/bin/bash
-npx hs upload ~/projects/Remessa\ Online/Hubspot/cms-boilerplate cms-boilerplate-teste
+npx hs upload src cms-boilerplate-teste
